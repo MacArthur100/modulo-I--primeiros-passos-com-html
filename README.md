@@ -13,18 +13,3 @@ Há também links criados com a tag `<a>`, que permitem a navegação para outra
 Fórmulas e textos técnicos são representados com as tags `<sub>` e `<sup>` para subscrito e sobrescrito, respectivamente, enquanto a tag `<blockquote>` destaca citações importantes de outras fontes.
 
 Apesar de estar obsoleta, a tag `<font>` pode ser encontrada para fins de exemplo histórico, exibindo texto com estilos de fonte definidos diretamente na tag. Por fim, a tag `<del>` mostra texto riscado, indicando conteúdo removido ou revisado, e a tag `<abbr>` adiciona explicações para abreviações e siglas ao passar o mouse.
-
-Resumo do Uso das Tags na Página
-1. **<h1> a <h6>**: Estruturam o conteúdo hierarquicamente.  
-2. <p>: Organizam o texto em blocos.  
-3. <mark>: Destacam palavras ou frases importantes.  
-4. <small>: Mostram informações secundárias.  
-5. <i>, <u>, <strong>: Estilizam o texto (itálico, sublinhado e negrito).  
-6. <hr>: Insere separações visuais entre seções.  
-7. <ol> e <ul> com <li>: Criam listas ordenadas e não ordenadas.  
-8. <a>: Fornecem links para navegação.  
-9. <sub> e <sup>: Representam subscrito e sobrescrito.  
-10. <blockquote>: Destacam citações.  
-11. <font>: Demonstra personalização de fonte (obsoleta).  
-12. <del>`: Marca texto riscado (removido).  
-13. <abbr>`: Explica abreviações e siglas.
