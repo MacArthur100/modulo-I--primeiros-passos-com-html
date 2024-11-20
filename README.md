@@ -15,7 +15,7 @@ Fórmulas e textos técnicos são representados com as tags `<sub>` e `<sup>` pa
 Apesar de estar obsoleta, a tag `<font>` pode ser encontrada para fins de exemplo histórico, exibindo texto com estilos de fonte definidos diretamente na tag. Por fim, a tag `<del>` mostra texto riscado, indicando conteúdo removido ou revisado, e a tag `<abbr>` adiciona explicações para abreviações e siglas ao passar o mouse.
 
 Resumo do Uso das Tags na Página
-1. <h1> a <h6>: Estruturam o conteúdo hierarquicamente.  
+1. **<h1> a <h6>**: Estruturam o conteúdo hierarquicamente.  
 2. <p>: Organizam o texto em blocos.  
 3. <mark>: Destacam palavras ou frases importantes.  
 4. <small>: Mostram informações secundárias.  
